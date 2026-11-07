@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "ar.com.mirutina.app",
+  "versionCode": 4,
+  "versionName": "0.4.0",
+  "notes": "Primera versión con sistema de actualizaciones integrado",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.4.0/mi-rutina-v0.4.0.apk",
+  "apkSize": 1742620,
+  "sha256": "7ece5567080b9f623c6dee883404412318b55a26b0c20bf3d547397a28d639ff"
+}
