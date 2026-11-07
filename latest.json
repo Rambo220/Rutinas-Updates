@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "ar.com.mirutina.app",
-  "versionCode": 5,
-  "versionName": "0.4.1",
-  "notes": "Prueba controlada del actualizador. Misma firma permanente; sin cambios en rutinas, perfiles ni registros.",
-  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.4.1/mi-rutina-v0.4.1.apk",
-  "apkSize": 1742624,
-  "sha256": "c9d1ca22cc19d01b0c24c3ea79e56e5edd1c563206914d60ecb495da0a9ce3e9"
+  "versionCode": 8,
+  "versionName": "0.7.0",
+  "notes": "Mejoras de entrenamiento, importación segura de rutinas y temporizador nativo con avisos en segundo plano.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.7.0/mi-rutina-v0.7.0.apk",
+  "apkSize": 1748920,
+  "sha256": "79df1abf3a9d2f53d7822abe13e9674ee571500813b9d8fa7267f5f87ccd8c14"
 }
