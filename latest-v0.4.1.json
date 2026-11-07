@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "packageName": "ar.com.mirutina.app",
+  "versionCode": 5,
+  "versionName": "0.4.1",
+  "notes": "Prueba controlada del actualizador. Misma firma permanente; sin cambios en rutinas, perfiles ni registros.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.4.1/mi-rutina-v0.4.1.apk",
+  "apkSize": 1742624,
+  "sha256": "c9d1ca22cc19d01b0c24c3ea79e56e5edd1c563206914d60ecb495da0a9ce3e9"
+}
