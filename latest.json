@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "ar.com.mirutina.app",
-  "versionCode": 11,
-  "versionName": "0.8.0",
-  "notes": "Nuevo inicio de entrenamiento con cronómetro persistente, modo foco por ejercicio, descanso lateral replegable y fotos asociadas automáticamente a rutinas importadas.",
-  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.0/mi-rutina-v0.8.0.apk",
-  "apkSize": 1757250,
-  "sha256": "763fbc1b3d9e71a67c926f9108527ce3fa0f1b5f8f64faab1c32ff339e09b314"
+  "versionCode": 13,
+  "versionName": "0.8.2",
+  "notes": "Menú de descanso sin textos explicativos. Textos de entrenamiento, progreso, rutinas y configuración más breves y claros.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.2/mi-rutina-v0.8.2.apk",
+  "apkSize": 1756718,
+  "sha256": "72251763bcb9b300dbaf642936da6c10dca20ebeba48cffcbd8c0df9bccb772d"
 }
