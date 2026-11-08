@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "ar.com.mirutina.app",
-  "versionCode": 8,
-  "versionName": "0.7.0",
-  "notes": "Mejoras de entrenamiento, importación segura de rutinas y temporizador nativo con avisos en segundo plano.",
-  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.7.0/mi-rutina-v0.7.0.apk",
-  "apkSize": 1748920,
-  "sha256": "79df1abf3a9d2f53d7822abe13e9674ee571500813b9d8fa7267f5f87ccd8c14"
+  "versionCode": 11,
+  "versionName": "0.8.0",
+  "notes": "Nuevo inicio de entrenamiento con cronómetro persistente, modo foco por ejercicio, descanso lateral replegable y fotos asociadas automáticamente a rutinas importadas.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.0/mi-rutina-v0.8.0.apk",
+  "apkSize": 1757250,
+  "sha256": "26a667d6b1e6d288ac7fca5f73570df3c6e0050045908aba4832e7d31500ebb3"
 }
