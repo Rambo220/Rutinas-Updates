@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "ar.com.mirutina.app",
-  "versionCode": 14,
-  "versionName": "0.8.3",
-  "notes": "Botón Descanso original y arrastrable. Al llevarlo a un lateral se repliega y muestra el tiempo; al devolverlo al centro recupera su diseño. Sin puntos de arrastre.",
-  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.3/mi-rutina-v0.8.3.apk",
-  "apkSize": 1756654,
-  "sha256": "8d668585ea59f8e475366dd5976bec5bf0ce398a4a22f502ad6910f26d8e6906"
+  "versionCode": 16,
+  "versionName": "0.8.5",
+  "notes": "Descanso automático sin abrir el panel al registrar una serie. Cuenta regresiva visible en el botón central o lateral. Aviso Android de alta importancia al finalizar con sonido y vibración durante 5 segundos. Se conservan los perfiles y registros.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.5/mi-rutina-v0.8.5.apk",
+  "apkSize": 1839646,
+  "sha256": "c2f8d6cefd96fc1e8db8b37e13755dfc6c8af8e1d39119031c14fd0c748362b4"
 }
