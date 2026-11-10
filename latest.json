@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "packageName": "ar.com.mirutina.app",
-  "versionCode": 17,
-  "versionName": "0.8.6",
-  "notes": "Actualizaciones más seguras. Mi Rutina ya no instala APK desde la app y abre la descarga oficial de GitHub en el navegador. Conserva perfiles, rutinas y registros.",
-  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.6/mi-rutina-v0.8.6.apk",
-  "apkSize": 1836410,
-  "sha256": "dc4777e1ac6c8a9dd731e01df66fecf431b80e9fb1357e57bfe3794ac1d8f515"
+  "versionCode": 18,
+  "versionName": "0.8.7",
+  "notes": "Interfaz renovada: más claridad para entrenar, registrar series y consultar progreso. Fotos y notas ahora se despliegan al necesitarlas. El botón Descanso y los datos de perfiles, rutinas e historial se conservan.",
+  "apkUrl": "https://github.com/Rambo220/Rutinas-Updates/releases/download/v0.8.7/mi-rutina-v0.8.7.apk",
+  "apkSize": 1838458,
+  "sha256": "6814ae36aea6ff51fa723fe5a5fc9508f627f7b13e6feb71624747682cc47f10"
 }
